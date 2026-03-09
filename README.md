@@ -1,4 +1,4 @@
-# Iniciação Científica – Mercado de Revenda de GLP no Brasil
+# Iniciação Científica 
 
 Este repositório reúne os dados e códigos utilizados na análise do mercado de revenda de Gás Liquefeito de Petróleo (GLP) no Brasil, desenvolvida no âmbito de um projeto de Iniciação Científica.
 
